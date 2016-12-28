@@ -1,4 +1,5 @@
 ## KEATON IS SOOO KEWL
+## SCOTTY D is pretty cool too!!!:)
 
 You can use the [editor on GitHub](https://github.com/keatonaylor/keatonaylor.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
